@@ -39,7 +39,7 @@ function mapSocialLinksData() {
         },
         {
             "icon": "fa fa-instagram",
-            "value": "https://www.instagram.com/iamrafhanchaudhary/"
+            "value": "https://www.instagram.com/flutter_noob/"
         },
         // {
         //     "icon": "fa fa-twitter",
